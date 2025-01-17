@@ -50,7 +50,7 @@ Here are some example scenarios where **TrackKit** can help developers in their 
 Add the following line to your `Package.swift` file:
 
 ```swift
-.package(url: "https://github.com/yourusername/TrackKit.git", from: "1.0.0")
+.package(url: "https://github.com/M-H-N/TrackKit", from: "1.0.0")
 ```
 
 ## Quick Start
